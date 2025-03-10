@@ -25,4 +25,4 @@ Hi ,I'm Mohammad Waris<br> <br>Currently pursuing Pre Final Year at  NIT Rourkel
 ---
 [![](https://visitcount.itsvg.in/api?id=W-aris&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> in the code there is a errorr linkdin part so fix it 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
